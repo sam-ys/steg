@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -W -Wall -pedantic -g -O0 -g -rdynamic CMakeFiles/steg.dir/base64.cpp.o CMakeFiles/steg.dir/cipher_ctl.cpp.o CMakeFiles/steg.dir/decoder.cpp.o CMakeFiles/steg.dir/encoder.cpp.o CMakeFiles/steg.dir/error.cpp.o CMakeFiles/steg.dir/image.cpp.o CMakeFiles/steg.dir/main.cpp.o -o steg  -lgcrypt 

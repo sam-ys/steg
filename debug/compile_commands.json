@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/sam/Code/cxx/steg/debug",
+  "command": "/usr/bin/c++    -std=c++11 -W -Wall -pedantic -g -O0 -g -o CMakeFiles/steg.dir/base64.cpp.o -c /home/sam/Code/cxx/steg/base64.cpp",
+  "file": "/home/sam/Code/cxx/steg/base64.cpp",
+  "output": "CMakeFiles/steg.dir/base64.cpp.o"
+},
+{
+  "directory": "/home/sam/Code/cxx/steg/debug",
+  "command": "/usr/bin/c++    -std=c++11 -W -Wall -pedantic -g -O0 -g -o CMakeFiles/steg.dir/cipher_ctl.cpp.o -c /home/sam/Code/cxx/steg/cipher_ctl.cpp",
+  "file": "/home/sam/Code/cxx/steg/cipher_ctl.cpp",
+  "output": "CMakeFiles/steg.dir/cipher_ctl.cpp.o"
+},
+{
+  "directory": "/home/sam/Code/cxx/steg/debug",
+  "command": "/usr/bin/c++    -std=c++11 -W -Wall -pedantic -g -O0 -g -o CMakeFiles/steg.dir/decoder.cpp.o -c /home/sam/Code/cxx/steg/decoder.cpp",
+  "file": "/home/sam/Code/cxx/steg/decoder.cpp",
+  "output": "CMakeFiles/steg.dir/decoder.cpp.o"
+},
+{
+  "directory": "/home/sam/Code/cxx/steg/debug",
+  "command": "/usr/bin/c++    -std=c++11 -W -Wall -pedantic -g -O0 -g -o CMakeFiles/steg.dir/encoder.cpp.o -c /home/sam/Code/cxx/steg/encoder.cpp",
+  "file": "/home/sam/Code/cxx/steg/encoder.cpp",
+  "output": "CMakeFiles/steg.dir/encoder.cpp.o"
+},
+{
+  "directory": "/home/sam/Code/cxx/steg/debug",
+  "command": "/usr/bin/c++    -std=c++11 -W -Wall -pedantic -g -O0 -g -o CMakeFiles/steg.dir/error.cpp.o -c /home/sam/Code/cxx/steg/error.cpp",
+  "file": "/home/sam/Code/cxx/steg/error.cpp",
+  "output": "CMakeFiles/steg.dir/error.cpp.o"
+},
+{
+  "directory": "/home/sam/Code/cxx/steg/debug",
+  "command": "/usr/bin/c++    -std=c++11 -W -Wall -pedantic -g -O0 -g -o CMakeFiles/steg.dir/image.cpp.o -c /home/sam/Code/cxx/steg/image.cpp",
+  "file": "/home/sam/Code/cxx/steg/image.cpp",
+  "output": "CMakeFiles/steg.dir/image.cpp.o"
+},
+{
+  "directory": "/home/sam/Code/cxx/steg/debug",
+  "command": "/usr/bin/c++    -std=c++11 -W -Wall -pedantic -g -O0 -g -o CMakeFiles/steg.dir/main.cpp.o -c /home/sam/Code/cxx/steg/main.cpp",
+  "file": "/home/sam/Code/cxx/steg/main.cpp",
+  "output": "CMakeFiles/steg.dir/main.cpp.o"
+}
+]
